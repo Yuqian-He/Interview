@@ -1,0 +1,9 @@
+# Local executable and build artifacts
+/main
+/build/
+*.o
+*.out
+*.dSYM/
+
+# macOS metadata
+.DS_Store
