@@ -1,11 +1,13 @@
-# 代码例子
+# Code Examples
 
-[返回首页](../README.md) · [面试问答目录](../interview/README.md)
+[Home](../README.md) · [Interview Notes](../interview/README.md)
 
-## 标准库容器
+## Standard Library Containers
 
-| 主题 | 例子 | 练习内容 | 对应笔记 |
+| Topic | Example | Skills Practised | Notes |
 | --- | --- | --- | --- |
-| Vector | [scores.cpp](vector/scores.cpp) | 创建、追加、下标修改、遍历、求和 | [Vector 笔记](../interview/containers/vector/README.md) |
+| Vector | [scores.cpp](vector/scores.cpp) | Initialization, appending, indexing, iteration, and summation | [Vector Notes](../interview/containers/vector/README.md) |
 
-每个主题使用独立文件夹存放例子。编译与运行命令见对应笔记。
+Each topic has its own folder. See the linked notes for compilation commands and expected output.
+
+中文提示：按主题查找例子，运行方法和预期输出见对应笔记。

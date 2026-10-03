@@ -1,18 +1,20 @@
-# 面试问答与学习笔记
+# Interview Notes & Questions
 
-[返回首页](../README.md) · [代码例子目录](../scripts/README.md)
+[Home](../README.md) · [Code Examples](../scripts/README.md)
 
-按知识分类归档，每个主题的 README 包含学习内容、代码链接、面试问答、复杂度分析与复习考点。
+Each topic includes learning notes, code links, interview questions, complexity analysis, and a review checklist. Read and practise the English answers first; use the Chinese notes for support.
 
-## 标准库容器（STL Containers）
+中文提示：先用英文理解和回答，再参考中文提示。
 
-| 主题 | 笔记与问答 | 当前考点 |
+## Standard Library Containers
+
+| Topic | Notes & Questions | Key Concepts |
 | --- | --- | --- |
-| Vector | [Vector 学习笔记](containers/vector/README.md) | 可变长度数组、下标、追加、遍历、时间与空间复杂度 |
+| Vector | [Vector Notes](containers/vector/README.md) | Dynamic arrays, indexing, appending, iteration, and time and space complexity |
 
-## 基础与复杂度交叉索引
+## Basics & Complexity
 
-- [C++17 编译与运行](containers/vector/README.md#1-编译与运行)
-- [循环与累加](containers/vector/README.md#4-循环与累加)
-- [时间复杂度](containers/vector/README.md#6-面试知识时间复杂度)
-- [中英文面试问答](containers/vector/README.md#面试问答)
+- [Compile and Run with C++17](containers/vector/README.md#1-compile-and-run)
+- [Loops and Accumulation](containers/vector/README.md#4-loops-and-accumulation)
+- [Time Complexity](containers/vector/README.md#6-time-complexity)
+- [Interview Questions](containers/vector/README.md#interview-questions)
